@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanyeWest", "KanyeWest\KanyeWest.csproj", "{BB532EAA-B9ED-470A-81DD-E3E5DD8C95F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanyeSwansonAPI", "KanyeWest\KanyeSwansonAPI.csproj", "{BB532EAA-B9ED-470A-81DD-E3E5DD8C95F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
