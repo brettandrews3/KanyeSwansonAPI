@@ -18,7 +18,7 @@ namespace KanyeSwansonAPI
             // associated with the NAME "quote"
             var kanyeQuote = JObject.Parse(kanyeResponse).GetValue("quote").ToString();
 
-            Console.WriteLine($"Kanye: {kanyeQuote}");
+            Console.WriteLine($"Kanye: '{kanyeQuote}.'");
 
             // Ron Swanson URL
             var ronURL = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
